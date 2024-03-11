@@ -55,7 +55,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/jeffjiang13/top-ecommerce-frontend.git
+git clone https://github.com/albertboyd/top-ecommerce-frontend.git
 Navigate into the cloned project directory:
 
 bash

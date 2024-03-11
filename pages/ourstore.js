@@ -50,11 +50,11 @@ function OurStore() {
               </div>
               <div className="my-2 mt-4">
                 <h3 className="mb-1 text-lg font font-semibold">ChiqueChick</h3>
-                Work in progress, feel free to check it out!<a href="https://jj-react-ecommerce.vercel.app/"> click here</a>
+                Work in progress, feel free to check it out!<a href="https://albert-react-ecommerce.vercel.app/"> click here</a>
               </div>
               <div className="my-2 mt-4">
                 <h3 className="mb-1 text-lg font font-semibold">Flight Club</h3>
-                Work in progress, feel free to check it out!<a href='https://jj-ecommerce-store.vercel.app/'> click here</a>
+                Work in progress, feel free to check it out!<a href='https://albert-ecommerce-store.vercel.app/'> click here</a>
               </div>
             </div>
           </div>
